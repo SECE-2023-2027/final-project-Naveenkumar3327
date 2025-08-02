@@ -1,7 +1,7 @@
 # 🏗️ MaintenoX – Building Maintenance Checklist Platform
 
 🚀 **Live Demo:** [https://naveenkumar-building-checklist.vercel.app/](https://naveenkumar-building-checklist.vercel.app/)  
-📦 **GitHub Repo:** [https://github.com/SECE-2023-2027/final-project-Naveenkumar3327](https://github.com/SECE-2023-2027/final-project-Naveenkumar3327)
+📦 **GitHub Repo:** [https://github.com/Naveenkumar3327/Building_Check_List_Final](https://github.com/Naveenkumar3327/Building_Check_List_Final)
 
 ---
 
@@ -57,10 +57,10 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/SECE-2023-2027/final-project-Naveenkumar3327.git
+git clone https://github.com/Naveenkumar3327/Building_Check_List_Final
 
 # 2️⃣ Navigate into the project directory
-cd final-project-Naveenkumar3327
+cd project
 
 # 3️⃣ Install dependencies
 npm install
